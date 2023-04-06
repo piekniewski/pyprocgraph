@@ -1,0 +1,2 @@
+class PyProcGraphException(Exception):
+    pass
