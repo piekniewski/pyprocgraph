@@ -1,3 +1,5 @@
+![Unit tests](https://github.com/piekniewski/pyprocgraph/actions/workflows/pull_request.yml/badge.svg)
+
 ## Python Process Graph
 
 Pyprocgraph is a package providing abstractions and 
